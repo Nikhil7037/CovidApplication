@@ -18,7 +18,7 @@ public class Test {
 	//Class.forName("com.mysql.jdbc.Driver");
  Connection con;
 	 con=DriverManager.getConnection(  
-			"jdbc:mysql://localhost:3306/test?useSSL=false","root","Temp@123");  
+			"jdbc:mysql://localhost:3306/test?useSSL=false","root","password");  
 	con.setAutoCommit(false);
 
     String sql = "INSERT INTO covid VALUES (?,?,?)";
