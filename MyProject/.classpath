@@ -26,5 +26,7 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/sa_nk133/Desktop/Assignments/Data Integration/jdbc.jar.zip"/>
 	<classpathentry kind="lib" path="C:/Users/sa_nk133/Desktop/Assignments/Data Integration/jdbc.jar"/>
+	<classpathentry kind="lib" path="pom.xml"/>
+	<classpathentry kind="lib" path="C:/Users/sa_nk133/Desktop/Assignments/Data Integration/javax.xml.parsers-1_1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
